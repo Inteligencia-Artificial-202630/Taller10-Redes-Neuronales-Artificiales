@@ -1,24 +1,11 @@
 # Taller 10: Redes Neuronales Artificiales
 
-**Inteligencia Artificial (ELP 8012), Universidad del Norte**
-Profesor: Eduardo Zurek, Ph.D.
-
-**Grupo:** Natalia Carpintero, Paula Núñez e Isabella Arrieta.
-
 ## Objetivo
 
 Diseñar e implementar una **red neuronal artificial multicapa (MLP)** que clasifique los dígitos escritos a mano
 del dataset `digits` de scikit-learn. Se comparan cuatro funciones de activación de la capa oculta
 (`identity`, `logistic`, `tanh` y `relu`) y se determina cuál conviene usar, teniendo en cuenta también el
 tiempo de entrenamiento.
-
-## Contenido del repositorio
-
-| Archivo | Descripción |
-| --- | --- |
-| `Taller10-Redes Neuronales Artificiales.ipynb` | Cuaderno con la solución: código, explicaciones y conclusiones. |
-| `02_MLP_EZ_datos_sinteticos.ipynb` | Cuaderno de referencia del curso (MLP sobre datos sintéticos). |
-| `_taller_10_Redes_Neuronales_Artificiales_parte_1.pdf` | Enunciado del taller. |
 
 ## Metodología
 
